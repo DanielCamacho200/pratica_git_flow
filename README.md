@@ -1,2 +1,3 @@
 # pratica_git_flow
-Aprendiendo a usar Git
+Aprendiendo a usar Gi	t
+Esta es la rama features
